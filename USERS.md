@@ -383,6 +383,12 @@ Users (Alphabetically)
       L: kops.sigs.k8s.io/
       Q: @olemarkus
 
+      N: Koyeb
+      D: Koyeb hosts microVMs on its own servers and uses Cilium to power a mesh in between those
+      U: Networking, policies inside a non-Kubernetes environment
+      L: https://www.koyeb.com/blog/70-faster-deployments-and-high-performance-private-network
+      Q: @koyeb on Twitter / https://community.koyeb.com/
+
     * N: Kryptos Logic
       D: Kryptos is a cyber security company that is using Kubernetes on-prem in which Cilium is our CNI of choice.
       U: Networking, Observability, kube-proxy replacement
